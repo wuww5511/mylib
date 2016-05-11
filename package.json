@@ -1,0 +1,16 @@
+{
+  "name": "mylib-wuww5511",
+  "version": "1.0.0",
+  "description": "我的工具库",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "async": "^2.0.0-rc.4",
+    "eventproxy": "^0.3.4",
+    "superagent": "^1.8.3"
+  }
+}
